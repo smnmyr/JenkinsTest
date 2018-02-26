@@ -3,7 +3,7 @@
  */
 public class Library {
     public boolean someLibraryMethod() {
-        return true;
+        return sdf;
     }
 
 	public int simpleAdd(int i, int j) {
